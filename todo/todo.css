@@ -1,0 +1,30 @@
+body
+{
+    margin: 0px;
+}
+.header
+{
+    height: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.main
+{
+    display: flex;
+    height: 700px;
+}
+.left
+{
+    background-color: red;
+    opacity: 0.7;
+    flex:1;
+    margin: 0 100px;
+}
+.right
+{
+    background-color: pink;
+    opacity: 0.7;
+    flex:1;
+margin: 0 100px;
+}
